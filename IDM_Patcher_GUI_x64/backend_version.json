@@ -1,0 +1,9 @@
+{
+  "repo": "https://github.com/Th3C0D3R/IDM-Unlock-Script",
+  "commit": "18218fa811e3ba10b60ecffa582ec9e9a1b4c8ef",
+  "sha256": "d0ab64023565fe73f0c0e68aba5f5ed482f76aa5b4229f553d5974c90ddff712",
+  "readme_sha256": "7b74616c6ae1f06bdacf0f0a7897b996c803f5c518150837f2ca04f84d7d2708",
+  "supported": "6.42 Build 63 \u2013 6.43 Build 17",
+  "installed_at": "2026-11-25T13:12:57.292170+00:00",
+  "commit_message": "Update README to reflect new supported version"
+}

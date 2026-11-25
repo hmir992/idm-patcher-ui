@@ -1,0 +1,41 @@
+Installed backend: 18218fa811e3ba10b60ecffa582ec9e9a1b4c8ef
+Source: https://github.com/Th3C0D3R/IDM-Unlock-Script
+
+Upstream commits affecting idmPatcher.py (newest first)
+
+95191238be9f  2026-10-27T15:49:48Z
+Merge branch 'main' of https://github.com/Th3C0D3R/IDM-Unlock-Script
+https://github.com/Th3C0D3R/IDM-Unlock-Script/commit/95191238be9feb0ae2d133b4f0a23da009540eef
+
+210a96a15c46  2026-10-27T15:48:18Z
+update
+https://github.com/Th3C0D3R/IDM-Unlock-Script/commit/210a96a15c46963db4460c6e2b438717116f0c87
+
+12252988fdcd  2026-10-27T06:40:25Z
+ups revert testing
+https://github.com/Th3C0D3R/IDM-Unlock-Script/commit/12252988fdcd71711af7be0b51c4a9e44f947d0d
+
+5d4bf8781244  2026-10-27T06:39:41Z
+update patch fix for latest (6.43 Build 16) version I missed, sorry
+https://github.com/Th3C0D3R/IDM-Unlock-Script/commit/5d4bf87812443280c3d43e1a719ad8d262d44aa7
+
+86d40efa646c  2026-09-08T15:41:55Z
+update to latest version, added one pattern
+https://github.com/Th3C0D3R/IDM-Unlock-Script/commit/86d40efa646c032ee9012e49e1306e1285627128
+
+5e2e6426f801  2026-06-21T19:11:05Z
+fix expiring dialog appearing
+https://github.com/Th3C0D3R/IDM-Unlock-Script/commit/5e2e6426f801076121216c31071da3bccdf09036
+
+f62631ab9685  2026-06-19T20:34:00Z
+fix for older version
+https://github.com/Th3C0D3R/IDM-Unlock-Script/commit/f62631ab968539f486cafdd68987a0c13c0fc355
+
+b3e17d852c38  2026-06-19T19:47:26Z
+update 6.43.1
+add pattern
+https://github.com/Th3C0D3R/IDM-Unlock-Script/commit/b3e17d852c38ee2c18d20019c934996a7cd3d2ad
+
+2e7b42c82aa5  2026-05-04T07:22:17Z
+add py file and ignore
+https://github.com/Th3C0D3R/IDM-Unlock-Script/commit/2e7b42c82aa5ef0f4aa30c14400af326d6bce55b
